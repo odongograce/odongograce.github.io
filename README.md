@@ -26,8 +26,8 @@ git clone https://github.com/odongograce/odongograce.github.io.git
 
 4. Run the application via localhost in your browser
 
-
-🌱 Learning Points
+`---`
+`##` 🌱 Learning Points
 
 - PHP & MySQL integration for CRUD operations
 
@@ -36,6 +36,8 @@ git clone https://github.com/odongograce/odongograce.github.io.git
 - Frontend development with HTML, CSS, and JavaScript
 
 - Building an admin dashboard and structured user workflows
+
+---
 
 📫 Contact
 
