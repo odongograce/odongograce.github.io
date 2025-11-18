@@ -20,18 +20,15 @@ A full CRUD system for managing salon services, bookings, and clients, built as 
 ```bash
 git clone https://github.com/odongograce/odongograce.github.io.git
 
----
-
 2. Set up a local server (XAMPP, WAMP, or MAMP)
 
 3. Import the database .sql file included in the repository
 
 4. Run the application via localhost in your browser
 
----
-**## 🌱 Learning Points**
+🌱 Learning Points
 
-- PHP & MySQL integration for CRUD operations
+-  PHP & MySQL integration for CRUD operations
 
 - Authentication and session management
 
@@ -39,10 +36,9 @@ git clone https://github.com/odongograce/odongograce.github.io.git
 
 - Building an admin dashboard and structured user workflows
 
----
 
 📫 Contact
 
 Email: graceakinyi024@gmail.com
 
-LinkedIn: Grace Odongo
+LinkedIn:  https://www.linkedin.com/in/grace-odongo-3ab3b51b5 
