@@ -16,7 +16,11 @@ A full CRUD system for managing salon services, bookings, and clients, built as 
 ---
 
 ## 🖼️ Screenshots
-*(Add screenshots of the dashboard, client management, and services page here to showcase your app)*  
+*(Placeholder images — replace if you can access your project later)*
+
+![Dashboard Screenshot](https://via.placeholder.com/600x400.png?text=Dashboard+Screenshot)  
+![Client Management Screenshot](https://via.placeholder.com/600x400.png?text=Client+Management)  
+![Services Page Screenshot](https://via.placeholder.com/600x400.png?text=Services+Page)
 
 ---
 
@@ -25,21 +29,22 @@ A full CRUD system for managing salon services, bookings, and clients, built as 
 ```bash
 git clone https://github.com/odongograce/odongograce.github.io.git
 
-Set up a local server (XAMPP, WAMP, or MAMP)
 
-Import the database .sql file included in the repository
+2. Set up a local server (XAMPP, WAMP, or MAMP)
 
-Run the application via localhost in your browser
+3. Import the database .sql file included in the repository
+
+4. Run the application via localhost in your browser
 
 🌱 Learning Points
 
-PHP & MySQL integration for CRUD operations
+- PHP & MySQL integration for CRUD operations
 
-Authentication and session management
+- Authentication and session management
 
-Frontend development with HTML, CSS, and JavaScript
+- Frontend development with HTML, CSS, and JavaScript
 
-Building an admin dashboard and structured user workflows
+- Building an admin dashboard and structured user workflows
 
 📫 Contact
 
