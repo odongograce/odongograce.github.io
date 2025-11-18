@@ -15,26 +15,17 @@ A full CRUD system for managing salon services, bookings, and clients, built as 
 
 ---
 
-## 🖼️ Screenshots
-*(Placeholder images — replace if you can access your project later)*
-
-![Dashboard Screenshot](https://via.placeholder.com/600x400.png?text=Dashboard+Screenshot)  
-![Client Management Screenshot](https://via.placeholder.com/600x400.png?text=Client+Management)  
-![Services Page Screenshot](https://via.placeholder.com/600x400.png?text=Services+Page)
-
----
-
 ## 💻 How to Run Locally
 1. Clone the repository:  
 ```bash
 git clone https://github.com/odongograce/odongograce.github.io.git
-
 
 2. Set up a local server (XAMPP, WAMP, or MAMP)
 
 3. Import the database .sql file included in the repository
 
 4. Run the application via localhost in your browser
+
 
 🌱 Learning Points
 
